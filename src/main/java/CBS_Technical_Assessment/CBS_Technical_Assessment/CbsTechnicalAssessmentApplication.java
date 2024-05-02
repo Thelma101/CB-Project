@@ -9,5 +9,4 @@ public class CbsTechnicalAssessmentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CbsTechnicalAssessmentApplication.class, args);
 	}
-
 }
