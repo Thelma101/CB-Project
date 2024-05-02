@@ -9,8 +9,6 @@ public class HttpResponseDTO {
     public String getResponseMessage(){
         return this.message;
     }
-
-
 }
 
 

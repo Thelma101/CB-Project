@@ -22,5 +22,3 @@ public class AccountDTO {
     private String maritalStatus;
     private String countryOfResidence;
 }
-
-//For deposits/withdrawals...you need acctNum, narration, amount, transactionType: 'deposit or withdrawals'
