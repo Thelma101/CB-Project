@@ -190,7 +190,6 @@ public class AccountEntity {
     public String getCifId(){
         return this.cifId;
     }
-
 }
 
 
